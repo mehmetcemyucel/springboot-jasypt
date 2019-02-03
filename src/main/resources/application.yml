@@ -1,0 +1,6 @@
+mcy:
+  message: welcome
+  person: ENC(9w7d1xtySqiqozS/MmHw5g==)
+jasypt:
+  encryptor:
+    bean: mcyEncryptor
